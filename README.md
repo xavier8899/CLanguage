@@ -12,5 +12,6 @@ http://pydoing.blogspot.tw/2010/09/c-resource.html<br/>
 
 4.Git 教學網頁<br/>
 https://backlogtool.com/git-guide/tw/intro/intro2_1.html<br/>
-http://www.slideshare.net/littlebtc/git-5528339
-
+http://www.slideshare.net/littlebtc/git-5528339<br/>
+https://blog.longwin.com.tw/2009/05/git-learn-initial-command-2009/<br/>
+http://blog.miniasp.com/post/2013/08/18/Learning-Git-Part-1-Installation-Options-Tool-Usage-on-Local.aspx<br/>
