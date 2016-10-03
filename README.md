@@ -2,13 +2,13 @@
 初步C語言教學
 
 
-※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※
+※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※
 
-※ C語言IDE [Code::Blocks] http://www.codeblocks.org/downloads/26
+※ C語言IDE [Code::Blocks] http://www.codeblocks.org/downloads/26<br/>
 
 ※ SmartGit 安裝步驟PD Fhttps://goo.gl/B9cH3H <br/>
 
-※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※
+※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※
 
 
 1.git client http://www.syntevo.com/smartgit/<br/>
