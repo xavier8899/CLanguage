@@ -6,7 +6,7 @@
 
 ※ C語言IDE [Code::Blocks] http://www.codeblocks.org/downloads/26<br/>
 
-※ SmartGit 安裝步驟PD Fhttps://goo.gl/B9cH3H <br/>
+※ SmartGit 安裝步驟PDF https://goo.gl/B9cH3H <br/>
 
 ※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※
 
