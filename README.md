@@ -5,6 +5,7 @@
 ※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※
 
 ※ C語言IDE [Code::Blocks] http://www.codeblocks.org/downloads/26<br/>
+※ C語言 安裝步驟與偵錯教學 https://goo.gl/mb70Pj
 
 ※ SmartGit 安裝步驟PDF https://goo.gl/B9cH3H <br/>
 
